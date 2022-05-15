@@ -1,0 +1,26 @@
+[
+  {
+    "password": "56789",
+    "name": "Rayzen",
+    "address": "jakarta",
+    "phone_number": "08521111"
+  },
+  {
+    "password": "56789",
+    "name": "Rayzen",
+    "address": "jakarta",
+    "phone_number": "085211111"
+  },
+  {
+    "password": "12345",
+    "name": "pinka",
+    "address": "bekasi",
+    "phone_number": "085222222"
+  },
+  {
+    "password": "121212",
+    "name": "adhyasta",
+    "address": "bekasi",
+    "phone_number": "0851221111"
+  }
+]
